@@ -10,32 +10,32 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
-  logo_name: "hrishi.p()",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
+  title2: "Varun",
+  logo_name: "Varun.p()",
+  nickname: "",
+  full_name: "Varun S",
   subTitle:
-    "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
+    "Full Stack Developer,  Cyber Security Enthusiast. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+  mail: "mailto:varunsiva88@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/varun-8 ",
+  linkedin: "www.linkedin.com/in/varuns2003",
+  gmail: "varunsiva88@gmail.com",
   gitlab: " ",
   facebook: " ",
   twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  instagram: "https://www.instagram.com/ft.varuuun/",
 };
 
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Full Stack Devolopment",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using ReactJS and Angular",
@@ -72,49 +72,7 @@ const skills = {
             color: "#7377AD",
           },
         },
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
-          style: {
-            color: "#f89820",
-          },
-        },
-        {
-          skillName: "Kotlin",
-          fontAwesomeClassname: "simple-icons:kotlin",
-          style: {
-            color: "#5c79df",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
-        {
-          skillName: "Go",
-          fontAwesomeClassname: "simple-icons:go",
-          style: {
-            color: "#00A7D0",
-          },
-        },
-        {
-          skillName: "Visual Basic",
-          fontAwesomeClassname: "simple-icons:dot-net",
-          style: {
-            color: "#029FCE",
-          },
-        },
-        {
-          skillName: "C#",
-          fontAwesomeClassname: "simple-icons:csharp",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
+      
         {
           skillName: "C",
           fontAwesomeClassname: "simple-icons:c",
@@ -122,13 +80,7 @@ const skills = {
             color: "#E94E32",
           },
         },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
-          },
-        },
+
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -145,13 +97,8 @@ const skills = {
             borderRadius: "50%",
           },
         },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
+        
+   
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -159,40 +106,12 @@ const skills = {
             color: "#439743",
           },
         },
-        {
-          skillName: "GraphQL",
-          fontAwesomeClassname: "simple-icons:graphql",
-          style: {
-            color: "#DE33A6",
-          },
-        },
-        {
-          skillName: "Android App Development",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+
         {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: {
             color: "#4479A1",
-          },
-        },
-
-        {
-          skillName: "Wordpress",
-          fontAwesomeClassname: "simple-icons:wordpress",
-          style: {
-            color: "#207297",
           },
         },
 
@@ -230,27 +149,7 @@ const skills = {
             color: "#FF9900",
           },
         },
-        {
-          skillName: "Netlify",
-          fontAwesomeClassname: "simple-icons:netlify",
-          style: {
-            color: "#38AFBB",
-          },
-        },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#6863A6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
+
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -258,46 +157,28 @@ const skills = {
             color: "#47A248",
           },
         },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
+
       ],
     },
     {
-      title: "Data Science & AI",
+      title: "CyberSecurity",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Certifications by deeplearning.ai and Stanford Online",
-        "⚡ Experience with 10+ Projects",
+        "⚡Knowledge in basic penetration testing using tools like Nmap and Burp Suite.",
+        "⚡ Certifications by  Google and Zscalar",
+        "⚡ Familiar with log monitoring and threat detection using SIEM tools like Splunk.",
       ],
       softwareSkills: [
+     
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "Wireshark",
+          fontAwesomeClassname: "simple-icons:wireshark",
           style: {
             backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
             color: "#D00000",
           },
         },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+      
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -307,8 +188,16 @@ const skills = {
           },
         },
         {
-          skillName: "Pandas",
-          fontAwesomeClassname: "simple-icons:pandas",
+          skillName: "Kalilinux",
+          fontAwesomeClassname: "simple-icons:kalilinux",
+          style: {
+            backgroundColor: "transparent",
+            color: "#6E6E6E",
+          },
+        },
+        {
+          skillName: "Burpsuite",
+          fontAwesomeClassname: "simple-icons:burpsuite",
           style: {
             backgroundColor: "transparent",
             color: "#6E6E6E",
@@ -322,30 +211,30 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Dalhousie University",
-      subtitle: "Masters in Applied Computer Science",
-      logo_path: "dal.png",
+      title: "Kumaraguru College of Technology",
+      subtitle: "Masters of Computer Applications",
+      logo_path: "kum.jpg",
       alt_name: "DAL",
-      duration: "2022 - 2023",
+      duration: "2024 - 2026",
       descriptions: [
         "⚡ Studied Advanced Software Development Concepts, Data Management & Warehousing",
         "⚡ Learn Advanced Topics in Cloud Computing, Cloud Architecture along with Serverless Computing",
-        "⚡ Worked on projects on courses like Mobile Computing and Web Technologies.",
+        "⚡ Worked on projects on courses like Cybersecurity and Web Technologies.",
       ],
-      website_link: "https://www.dal.ca/",
+      website_link: "https://kct.ac.in/",
     },
     {
-      title: "SAL Engineering and Technical Institute",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "sal.png",
+      title: "Kongu Engineering College",
+      subtitle: "B.Sc Information Systems",
+      logo_path: "sal.jpg",
       alt_name: "SETI",
-      duration: "2017 - 2021",
+      duration: "2021 - 2024",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: "https://kongu.ac.in/",
     },
   ],
 };
@@ -353,62 +242,62 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "AWS Developer Associate",
+      title: "Google Cybersecurity Certification",
+      subtitle: "2023 - 2024",
+      logo_path: "google_logo.png",
+      certificate_link: "https://www.coursera.org/account/accomplishments/specialization/UBTSWC93SQ7H",
+      alt_name: "Google",
+      color_code: "#ffc475",
+    },
+    {
+      title: "Google AI Essentials Certification",
+      subtitle: "Coursera",
+      logo_path: "google_logo.png",
+      certificate_link: "https://www.coursera.org/account/accomplishments/certificate/Q87N3DMRLHJB",
+      alt_name: "Google",
+      color_code: "#ffc475",
+    },
+    {
+      title: "AWS Cloud Practitioner Essentials",
       subtitle: "Amazon Web Services",
       logo_path: "aws.png",
       certificate_link:
-        "https://www.credly.com/badges/b12fbece-07f3-47f5-9dda-cd56f49e250d/public_url",
+        "https://drive.google.com/file/d/1I6zHFJTaHjgUmZmoQC9CNRQmOHsYbUJC/view",
       alt_name: "AWS",
       color_code: "#ffc475",
     },
     {
-      title: "AWS Certified Cloud Practioner",
-      subtitle: "Amazon Web Services",
-      logo_path: "aws.png",
+      title: "SQL injection Attack",
+      subtitle: "EC-Council",
+      logo_path: "Ec-council.png",
       certificate_link:
-        "https://www.credly.com/badges/8b2db191-702d-427c-91aa-0f926be447a6/public_url",
-      alt_name: "AWS",
+        "https://codered.eccouncil.org/certificate/77885ab5-3c0a-4641-b4cd-6df1c1c5ea5c?logged=true",
+      alt_name: "EC-Council",
       color_code: "#ffc475",
     },
     {
-      title: "Google Summer of Code 2019",
-      subtitle: "Google / Sugar Labs",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#ffc475",
-    },
-    {
-      title: "Google Code-In Student",
-      subtitle: "2014-2017",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#1e70c1",
-    },
-    {
-      title: "Google Summer of Code Mentor",
-      subtitle: "2017 / 2018 / 2020",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
+      title: "Computer Hardware Basics",
+      subtitle: "2023",
+      logo_path: "cisco.png",
+      certificate_link: "https://www.credly.com/badges/d193aeda-cce0-4409-a96c-e4d073f99f14/linked_in_profile",
+      alt_name: "Cisco",
       color_code: "#ffbfae",
     },
     {
-      title: "Google Code-In Mentor",
-      subtitle: "2017 / 2018 / 2019",
-      logo_path: "google_logo.png",
+      title: "Become an IT Security Specialist",
+      subtitle: "Linkedin Learning",
+      logo_path: "linkedin-learning.png",
       certificate_link: " ",
-      alt_name: "Google",
+      alt_name: "Linkedin Learning",
       color_code: "#b190b0",
     },
     {
-      title: "Deep Learning Specialization",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "Cybersecurity Analyst Job Simulation",
+      subtitle: "Forage",
+      logo_path: "forage.png",
       certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
-      alt_name: "deeplearning.ai",
+        "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_Q4BzHaBLB2ggPfH2C_1738043755898_completion_certificate.pdf",
+      alt_name: "forage",
       color_code: "#47A048",
     },
     {
@@ -429,58 +318,7 @@ const certifications = {
       alt_name: "deeplearning.ai",
       color_code: "#2AAFED",
     },
-    {
-      title: "Structuring Machine Learning Projects",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
-      alt_name: "deeplearning.ai",
-      color_code: "#E2405F",
-    },
-    {
-      title: "Machine Learning",
-      subtitle: "deeplearning.ai",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/72KY93DT82MP",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Neural Networks and Deep Learning",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
-      alt_name: "Google",
-      color_code: "#7A7A7A",
-    },
-    {
-      title: "Improving Deep Neural Networks",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Android Developer Nanodegree",
-      subtitle: "Part of Google India Scholarship Program",
-      logo_path: "100.png",
-      certificate_link: "https://graduation.udacity.com/confirm/HLE7K5V3",
-      alt_name: "Google",
-      color_code: "#C5E2EE",
-    },
-    {
-      title: "InOut 4.0 Winner #2",
-      subtitle: "2017",
-      logo_path: "ino.png",
-      certificate_link: " ",
-      alt_name: "InOut",
-      color_code: "#fffbf3",
-    },
+
   ],
 };
 
@@ -496,20 +334,17 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "CS2 - IT Developer/Analyst",
-          company: "Canada Revenue Agency",
-          company_url: "https://www.canada.ca/en/revenue-agency.html",
-          logo_path: "cra.png",
-          duration: "May 2023 - Present",
-          location: "Halifax, Nova Scotia",
+          title: "Fresher",
+          company: "Actively searching for jobs", 
+          company_url: "https://www.linkedin.com/in/varuns2003/",
+          logo_path: "fresher.png",
+          duration: "Present",
+          location: "Erode",
           description:
-            "• Led development to concurrently process tax returns for multiple fiscal years, reducing system processing time by 35%\n" +
-            "• Implemented new tax return types and led development of T3 returns, resolving 25+ critical production issues\n" +
-            "• Collaborated across 5+ cross-functional teams to integrate tax law changes, ensuring 100% compliance\n" +
-            "• Mentored 4 team members and led code review sessions, enhancing team knowledge sharing",
+            "I am an aspiring Security Analyst and System Administrator with hands-on experience in cybersecurity tools, vulnerability management, and endpoint security. Passionate about threat detection, network security, and Zero Trust Architecture, I have a strong foundation in penetration testing, cloud security, and security automation. Additionally, I possess expertise in system administration and DevOps, aiming to safeguard digital assets, enhance IT infrastructure, and drive cybersecurity resilience.",
           color: "#f10000",
         },
-        {
+       /* {
           title: "Full Stack Developer - Part-time Contract",
           company: "SpatialCut",
           company_url: "",
@@ -547,25 +382,24 @@ const experience = {
             "• Implemented Dashboard functionality using Python and GTK3 for Sugar OS\n" +
             "• Created interactive widget for Sugar Desktop environment\n" +
             "• Contributed to Python 2 to 3 migration and Music Blocks features",
-          color: "#ee3c26",
-        },
+          color: "#ee3c26",*/
+        
       ],
     },
     {
       title: "Internships",
       experiences: [
         {
-          title: "Google Summer of Code",
-          company: "Sugar Labs",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "May 2019 - Aug 2019",
-          location: "Work From Home",
-          description:
-            "I worked on the Dashboard project which helps users track their activities while using Sugar OS. I also worked on making a Tamagotchi-like widget for Sugar's Home Screen",
+          title: "Zscaler zero trust vitual internship",
+          company: "Zscalar",
+          company_url: "https://www.zscaler.com/",
+          logo_path: "Zscaler.jpeg",
+          duration: "Jan 2025 - Feb 2025 ",
+          location: "Virtual",
+          description: "Zscaler Zero Trust Architecture Virtual Internship, Gained hands-on experience in Zero Trust Security, ZIA, ZPA, and ZTNA ,Learned cloud security, access control, and policy enforcement for enterprise security.",
           color: "#ee3c26",
         },
-        {
+       /* {
           title: "Android App Developer Intern",
           company: "IAS4Sure",
           company_url: " ",
@@ -595,35 +429,35 @@ const experience = {
           location: "",
           description: "Develop a portfolio website using ReactJS",
           color: "#800000",
-        },
+        }, */
       ],
     },
     {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Summer of Code Mentor",
-          company: "Sugar Labs / GSoC",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "Summer of 2017 / 18 / 20",
+          title: "Documentation Co-ordinator of MCA Department",
+          company: "Kumaraguru College of Technology",
+          company_url: "https://kct.ac.in/",
+          logo_path: "dal.png",
+          duration: "2024 - 2026",
           location: " ",
           description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
+            "Documentation Coordinator – MCA Department (2024 – Present)Responsible for maintaining official records, reports, and event documentation.Ensure accurate documentation of meetings, decisions, and departmental activities. Collaborate with teams to organize and manage essential documents efficiently.",
           color: "#4285F4",
         },
         {
-          title: "Google Code-In Mentor",
-          company: "Sugar Labs / GSoC",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "Winter of 2017 / 18 / 19",
+          title: "System Administrator of Cultural and music club",
+          company: "Kongu Engineering College",
+          company_url: "https://kongu.ac.in/",
+          logo_path: "sal.jpg",
+          duration: "2022 - 2024",
           location: " ",
           description:
-            "Day to day resposibilites of this mentorship was to help out children aged 13-17 get started with programming and open-source, review their work and approve them.",
+            "Managed audio-visual systems and ensured smooth technical operations during events.Handled equipment setup, troubleshooting, and coordination for live performances.Collaborated with teams to optimize sound, lighting, and multimedia presentations.",
           color: "#D83B01",
         },
-        {
+        /*{
           title: "Board Member at Codeuino",
           company: " ",
           company_url: " ",
@@ -643,7 +477,7 @@ const experience = {
           description:
             "Co-Founder and President of the programming club called BluWings. Have organized several workshops which introduced programming and related tools to freshers.",
           color: "#D83B01",
-        },
+        },*/
       ],
     },
   ],
@@ -653,7 +487,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Cyber Security, Machine learning and Full Stack projects.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -661,7 +495,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "hrishi2.png",
+    profile_image_path: "varun.JPG",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
@@ -677,41 +511,33 @@ const contactPageData = {
 const projects = {
   data: [
     {
-      name: "Apifi",
-      url: "http://apifi.io/",
+      name: "Privacy Datasharing App",
+      url: "https://github.com/varun-8/Privacy-data-sharing-app",
       description:
-        "A marketplace for APIs. Leading a team of 4 developers, implemented SDK-generation tools, core services like rate-limiter and console.",
+        "Developed a Privacy Data Sharing App enabling secure transfer of encrypted messages and data. Implemented robust encryption and group-based sharing for enhanced security. Designed with a focus on privacy preservation and user-controlled access.",
       languages: [
         {
-          name: "AWS",
-          iconifyClass: "devicon-aws",
+          name: "Python",
+          iconifyClass: "devicon-python",
         },
         {
-          name: "Golang",
-          iconifyClass: "devicon-go",
+          name: "React",
+          iconifyClass: "devicon-react",
         },
         {
-          name: "TypeScript",
-          iconifyClass: "devicon-typescript",
+          name: "Mongo",
+          iconifyClass: "devicon-mongodb",
         },
         {
-          name: "Next.js",
-          iconifyClass: "devicon-nextjs",
-        },
-        {
-          name: "DynamoDB",
-          iconifyClass: "devicon-dynamodb",
-        },
-        {
-          name: "Redis",
-          iconifyClass: "devicon-redis",
+          name: "Node.js",
+          iconifyClass: "devicon-nodejs",
         },
       ],
     },
     {
-      name: "CineScope",
-      url: "https://github.com/Hrishi1999/CineScope",
-      description: "An IMDB-like application.",
+      name: "Risk Assessment of Construction workers using Machine learning",
+      url: "https://colab.research.google.com/drive/1Haqvf2EWBvjq3rWQarEdrGsV0VN1h-6C?usp=sharing",
+      description: "Developed a machine learning model using the ARIMA algorithm to assess and predict risk levels among construction workers based on historical incident data. Enabled proactive safety management by forecasting potential hazards and trends.",
       languages: [
         {
           name: "React.js",
@@ -735,7 +561,7 @@ const projects = {
         },
       ],
     },
-    {
+   /* {
       name: "Journalify",
       url: "https://play.google.com/store/apps/details?id=com.picle.journalify",
       description:
@@ -892,183 +718,8 @@ const projects = {
           iconifyClass: "logos-python",
         },
       ],
-    },
-    {
-      name: "Project Health Card",
-      url: "",
-      description:
-        "An aadhard-card like utility card which keeps track of all your health records suchs as: Medicines, Lab Reports, Recent Diseases, Allergies, etc.",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-java",
-        },
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "MongoDB",
-          iconifyClass: "logos-mongodb",
-        },
-      ],
-    },
-    {
-      name: "Food Classifier",
-      url: " ",
-      description:
-        "A food classifier app using tflite which classfier over 50 Indian Dishes.",
-      languages: [
-        {
-          name: "Flutter",
-          iconifyClass: "logos-flutter",
-        },
-        {
-          name: "Dart",
-          iconifyClass: "logos-dart",
-        },
-        {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
-    {
-      name: "Image Clustering",
-      url: " ",
-      description:
-        "A simple use of K-Means Clustering algorithm to sort images by automatically predicting number of classes. This can be used to clean an image dataset.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
-    {
-      name: "Antivirus",
-      url: " ",
-      description:
-        "A project from 2012. Made an antivirus with realtime scanning. Implemented by using comparison of md5 hashes.",
-      languages: [
-        {
-          name: "Visual Basic",
-          iconifyClass: "logos-dotnet",
-        },
-      ],
-    },
-    {
-      name: "Sugar on Windows",
-      url: " ",
-      description:
-        "Run and setup Sugar OS to be able to run on Windows using Windows Subsystem for Linux",
-      languages: [
-        {
-          name: "Visual Basic",
-          iconifyClass: "logos-dotnet",
-        },
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
-    {
-      name: "Object + Face Detection",
-      url: " ",
-      description: "2017 project. Object detection + accurate face detection.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
-        },
-        {
-          name: "OpenCV",
-          iconifyClass: "logos-opencv",
-        },
-      ],
-    },
-    {
-      name: "Image Captioning with Visual Attention",
-      url: " ",
-      description: "Ongoing. Used MSCOCO 2014/2017 for image captioning.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
-    {
-      name: "DalSocial",
-      url: " ",
-      description:
-        "An Android app to meet new people in the university, organize and join events. ",
-      languages: [
-        {
-          name: "Kotlin",
-          iconifyClass: "simple-icons:kotlin",
-          color: "#F18E33",
-        },
-        {
-          name: "Android",
-          iconifyClass: "simple-icons:android",
-          color: "#3DDC84",
-        },
-        {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
-        },
-      ],
-    },
-    {
-      name: "HalifaxFoodie",
-      url: " ",
-      description:
-        "CSCI5410 Project. A multi-client recipe app for Halifax Foodies.",
-      languages: [
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "AWS",
-          iconifyClass: "logos-aws",
-        },
-        {
-          name: "Google Cloud",
-          iconifyClass: "logos-google-cloud",
-        },
-      ],
-    },
+    },*/
+   
   ],
 };
 

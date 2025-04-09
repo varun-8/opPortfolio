@@ -8,7 +8,7 @@ export default function socialMedia() {
       <a
         href={socialMediaLinks.github}
         className="icon-button github"
-        target="_blank"
+        target="https://github.com/varun-8"
         rel="noopener noreferrer"
       >
         <i className="fab fa-github"></i>

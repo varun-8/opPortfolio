@@ -133,19 +133,7 @@ function Header(props) {
                 Contact and Resume
               </NavLink>
             </li>
-            <li>
-              <a
-                className="cr"
-                target="_blank"
-                rel="noopener noreferrer"
-                href="https://apifi.io"
-                tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
-                style={{ borderRadius: 5, color: theme.text }}
-              >
-                Apifi
-              </a>
-            </li>
+           
             <button {...styles} onClick={changeTheme}>
               {icon}
             </button>
