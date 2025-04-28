@@ -12,6 +12,7 @@
     "test": "react-scripts test"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "baseui": "^12.2.0",
     "glamor": "^2.20.40",
     "react": "^16.8.0",
